@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8270d5980d4be4544a5a34db2d26606e, type: 3}
+  m_Name: Character1_Death
+  m_EditorClassIdentifier: 
+  filename: Character1_Death
+  _manageIsBehinds: 1
+  _downFacingFrames:
+  - {fileID: 250589176, guid: fdd5d322ab0b7454ba02f0bb7fa84a94, type: 3}
+  - {fileID: -2080932541, guid: fdd5d322ab0b7454ba02f0bb7fa84a94, type: 3}
+  - {fileID: -2080932541, guid: fdd5d322ab0b7454ba02f0bb7fa84a94, type: 3}
+  _upFacingFrames:
+  - {fileID: -2112428, guid: fdd5d322ab0b7454ba02f0bb7fa84a94, type: 3}
+  - {fileID: 600066878, guid: fdd5d322ab0b7454ba02f0bb7fa84a94, type: 3}
+  - {fileID: 600066878, guid: fdd5d322ab0b7454ba02f0bb7fa84a94, type: 3}
+  _rightFacingFrames:
+  - {fileID: -1476575512, guid: fdd5d322ab0b7454ba02f0bb7fa84a94, type: 3}
+  - {fileID: 585163797, guid: fdd5d322ab0b7454ba02f0bb7fa84a94, type: 3}
+  - {fileID: 585163797, guid: fdd5d322ab0b7454ba02f0bb7fa84a94, type: 3}
+  _leftFacingFrames:
+  - {fileID: -809767666, guid: fdd5d322ab0b7454ba02f0bb7fa84a94, type: 3}
+  - {fileID: -966377129, guid: fdd5d322ab0b7454ba02f0bb7fa84a94, type: 3}
+  - {fileID: -966377129, guid: fdd5d322ab0b7454ba02f0bb7fa84a94, type: 3}
+  _downFacingIsBehinds: 010101
+  _upFacingIsBehinds: 010101
+  _rightFacingIsBehinds: 010101
+  _leftFacingIsBehinds: 010101

@@ -1,0 +1,5 @@
+﻿[ManageableVariable]
+public class #RUNTIMENAME#Variable : Variable<#RUNTIMENAME_LOWERCASE#> { }
+
+[System.Serializable]
+public class #SCRIPTNAME# : VariableReference<#RUNTIMENAME_LOWERCASE#, #RUNTIMENAME#Variable>{}

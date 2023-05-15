@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a59f0f33c2067a54786d7be1240f48be, type: 3}
+  m_Name: Character2_Idle
+  m_EditorClassIdentifier: 
+  filename: Character2_Idle
+  _frameRate: 4
+  _behindLayer: {fileID: 0}
+  _baseLayer: {fileID: 11400000, guid: 3d60234211dbb924cbd9b3560bbe10de, type: 2}
+  _outfitLayer: {fileID: 11400000, guid: 42450de30ef66664bb9b38534a4617fe, type: 2}
+  _cloakLayer: {fileID: 0}
+  _faceLayer: {fileID: 0}
+  _hairLayer: {fileID: 11400000, guid: 8b1af80b297e26149bd5d6b4bc89c222, type: 2}
+  _hatLayer: {fileID: 0}
+  _toolALayer: {fileID: 11400000, guid: 565572e5243e75b4cb5b727259152b12, type: 2}
+  _toolBLayer: {fileID: 0}
+  IsOneTime: 0
+  TagToTransitionTo: 
+  CurBehindSprite:
+    AnimationFrame: {fileID: 0}
+    IsBehind: 0
+  CurBaseSprite:
+    AnimationFrame: {fileID: 663465487, guid: 6281757f6d410f44a8f2f7f570da48db, type: 3}
+    IsBehind: 0
+  CurOutfitSprite:
+    AnimationFrame: {fileID: 1562154812, guid: 23c68331479678d4489e63bea7c0a700, type: 3}
+    IsBehind: 0
+  CurCloakSprite:
+    AnimationFrame: {fileID: 0}
+    IsBehind: 0
+  CurFaceSprite:
+    AnimationFrame: {fileID: 0}
+    IsBehind: 0
+  CurHairSprite:
+    AnimationFrame: {fileID: -332684895, guid: 45648ca7d9b4d674ea277930d9e25010, type: 3}
+    IsBehind: 0
+  CurHatSprite:
+    AnimationFrame: {fileID: 0}
+    IsBehind: 0
+  CurToolASprite:
+    AnimationFrame: {fileID: 534346773, guid: f99ec6e2b9091124291464bedc5dc841, type: 3}
+    IsBehind: 0
+  CurToolBSprite:
+    AnimationFrame: {fileID: 0}
+    IsBehind: 0

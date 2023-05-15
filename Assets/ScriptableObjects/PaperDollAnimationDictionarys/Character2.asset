@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd1a7d2f453dec146812e7aa0a0061a1, type: 3}
+  m_Name: Character2
+  m_EditorClassIdentifier: 
+  filename: Character2
+  _animations:
+    keyData:
+    - Idle
+    - Walk
+    - Attack
+    - Death
+    valueData:
+    - {fileID: 11400000, guid: ef7329e52057baa48b45a876f736429d, type: 2}
+    - {fileID: 11400000, guid: 80e19c442f8d27a49a7b38558783a6f9, type: 2}
+    - {fileID: 11400000, guid: 82ae5d5021040de40a240c41a80aa2e3, type: 2}
+    - {fileID: 11400000, guid: 8b116fbc93c38f8409303eec705555d3, type: 2}
